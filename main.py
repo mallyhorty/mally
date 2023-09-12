@@ -81,3 +81,35 @@ def main():
 if __name__ == '__main__':
     main()
 
+def main():
+    num_1 = 15
+    num_2 = 12
+
+    print(f'sum of num_1 and num_2 is: {num_1 + num_2}')
+    print(f'difference of num_1 and num_2 is: {num_1 - num_2}')
+
+if __name__ == '__main__':
+    main()
+
+def main():
+    num_1 = 15
+    num_2 = 12
+
+    print(f'difference of num_2 and num_1 is: {num_2 - num_1}')
+
+if __name__ == '__main__':
+    main()
+
+def main():
+    num_1 = 15
+    num_2 = 12
+
+    print(f'product of num_1 and num_2 is: {num_1 * num_2}')
+    print(f'quotient of num_1 and num_2 is: {num_1 / num_2}')
+    print(f'floored quotent of num_1 and num_2 is: {num_1 // num_2}')
+
+if __name__ == '__main__':
+    main()
+
+
+
