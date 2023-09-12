@@ -72,3 +72,11 @@ def main():
 if __name__ == '__main__':
     main()
 
+def main():
+    name, sex, age, place, school = 'Ola', 'Boy', '15 years old', 'Ekiti_state', 'Eksu'
+
+    print(f'{name} is a {sex}, and he is {age}. '
+          f' he was born in {place} and studies at {school} at Ado ekiti.')
+
+if __name__ == '__main__':
+    main()
