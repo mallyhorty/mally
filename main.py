@@ -64,4 +64,11 @@ def main():
 if __name__ == '__main__':
     main()
 
+def main():
+    platform, pilot_name, flight_hour, Tot, Eta = 'A-29', 'Flt lt Ahmadu II', 500, 09.00, 12.30
+
+    print(f'{platform} is a fighter jet flew by {pilot_name}, with total flying hours {flight_hour}. Take off time is {Tot} and Estimated time of Arrival is {Eta} of the flight from kainji to kaduna.')
+
+if __name__ == '__main__':
+    main()
 
