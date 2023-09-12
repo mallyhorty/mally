@@ -28,3 +28,16 @@ if __name__ == '__main__':
 
 if __name__ == '__main__':
     main()
+
+def main():
+    platforms, pilot_name, flight_hour, Tot, Eta = 'A-29', 'Flt lt Ahmadu II', 500, 09.00, 12.30
+
+    print(platforms)
+    print(pilot_name)
+    print(flight_hour)
+    print(Tot)
+    print(Eta)
+
+if __name__ == '__main__':
+    main()
+
